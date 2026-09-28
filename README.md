@@ -8,3 +8,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aramaghakaryan)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/harrchsy)
 [![Mail](https://img.shields.io/badge/Mail-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:aghakaryanaram@niuitmo.ru)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aram.aghakaryan.3/)
