@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**harrchsy/harrchsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aram</h1>
+<p align="center">Cybersecurity Student at ITMO University</p>
 
-Here are some ideas to get you started:
+## 🤝 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harrchsy)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aghakaryanaram@mail.ru)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aramaghakaryan)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/harrchsy)
+[![Mail](https://img.shields.io/badge/Mail-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:aghakaryanaram@niuitmo.ru)
+
+## 📊 GitHub Stats
+
+![Aram's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrchsy&show_icons=true&theme=dark)
