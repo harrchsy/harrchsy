@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aram</h1>
 <p align="center">Cybersecurity Student at ITMO University</p>
 
