@@ -10,7 +10,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aramaghakaryan)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/harrchsy)
 [![Mail](https://img.shields.io/badge/Mail-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:aghakaryanaram@niuitmo.ru)
-
-## 📊 GitHub Stats
-
-![Aram's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrchsy&show_icons=true&theme=dark)
